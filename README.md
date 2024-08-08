@@ -1,6 +1,6 @@
 # SQL-Project
 
- PIZZA ORDERING SYSTEM
+--PIZZA ORDERING SYSTEM--
 
 In this project, I utilized SQL to dive deep into the pizzeria's operations, uncovering valuable insights that can drive better decision-making and optimization. From calculating total orders and revenue to identifying the most popular pizza sizes and the top-performing pizza types, this project showcases the power of data in transforming business operations. Key highlights include:
 
